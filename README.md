@@ -9,4 +9,4 @@ Agradecido de todo el material que **Online Tutorials** sube a sus plataformas y
 ## Preview
 ![fonoaudiologia-rotation](https://user-images.githubusercontent.com/98556305/178630234-9f8cec94-3068-4e2c-9fa4-fb5f153d87e9.gif)
 
-Pueden ver el proyecto en vivo en este [enlace](https://programro.github.io/responsive-card-01/).
+Pueden ver el proyecto en vivo en este [enlace](https://programro.github.io/fonoaudiologia-rotation/).
